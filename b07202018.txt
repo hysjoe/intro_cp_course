@@ -1,1 +1,4 @@
 b07202018
+git remote add origin https://github.com/hysjoe/intro_cp_course.git
+git branch -M main
+git push -u origin main
